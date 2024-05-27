@@ -23,6 +23,7 @@ main{
 }
 
 .todo .addtodo{
+    margin-top: 20px;
     padding: 35px 26px;
     margin-bottom: 50px;
 }
